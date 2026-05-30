@@ -1,3 +1,5 @@
+See paper - https://arxiv.org/abs/1905.07397
+
 This is an unofficial fork of the original [mining simulator](https://github.com/citp/mining_simulator)
 by Harry Kallodner. The original project is still available for development and we encourage you to check
 it out before looking at this one as both have their niche.
